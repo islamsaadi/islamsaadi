@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/islamsaadi/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" height="42" /></a>
   &nbsp;
-  <a href="https://irestweb.com/"><img src="assets/irestweb.svg" alt="Explore iRestWEB" height="42" /></a>
+  <a href="https://github.com/islamsaadi?tab=repositories"><img src="assets/projects.svg" alt="Explore my projects" height="42" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## Software that solves the whole problem.
 
-I'm **Islam Saadi**, a **Tech Lead & Senior Full Stack Engineer at [iRestWEB](https://irestweb.com/)**. I bring **9+ years of experience** building web applications and cloud systems, from the first architecture decision to the services, interfaces and infrastructure that run them.
+I'm **Islam Saadi**, a **Tech Lead & Senior Full Stack Engineer**. I bring **9+ years of experience** building web applications and cloud systems, from the first architecture decision to the services, interfaces and infrastructure that run them.
 
 My work connects **full-stack engineering, production AI and cloud operations**. I lead developers, stay hands-on with the code, and turn complex business requirements into software people can use.
 
@@ -91,7 +91,7 @@ A closer look at how I build, across business logic, AI, cloud infrastructure an
 
 ## Production work
 
-Alongside these public repositories, my professional work at iRestWEB includes:
+Alongside these public repositories, my professional experience includes:
 
 - **AI quoting for manufacturing** — an agent that reads customer drawings, drafts priced quotes and generates laser-ready production files, with queued workflows, spend limits and audit logs.
 - **Factory management** — quotes, orders, production tracking, suppliers and accounting integrations, built with Laravel, Vue.js, MySQL and AWS S3.
@@ -117,8 +117,8 @@ Additional training in **Generative AI**, **Java Microservices & Cloud Developme
 
 ## Let's connect
 
-Interested in full-stack products, AI workflows or cloud architecture? Let's talk about the problem you're solving.
+I enjoy conversations about software engineering, applied AI, cloud architecture and the challenges of building useful systems.
 
-**[Connect on LinkedIn ↗](https://www.linkedin.com/in/islamsaadi/)** &nbsp; · &nbsp; **[Explore iRestWEB ↗](https://irestweb.com/)**
+**[Connect with me on LinkedIn ↗](https://www.linkedin.com/in/islamsaadi/)** &nbsp; · &nbsp; **[Browse my repositories ↗](https://github.com/islamsaadi?tab=repositories)**
 
 <sub>Architecture with purpose. Code with care. Ownership through production.</sub>

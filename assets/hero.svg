@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Islam Saadi — Tech Lead and Senior Full Stack Engineer</title>
+  <desc id="desc">From idea to production. Full-stack engineering, applied AI and cloud systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#081321"/><stop offset="1" stop-color="#132A39"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#53A5FF"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#86B6C8" stroke-opacity=".065"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="420" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#grid)"/>
+    <path d="M64 2H1216" stroke="url(#line)" stroke-width="4"/>
+    <circle cx="1095" cy="206" r="215" stroke="#5EEAD4" stroke-opacity=".10"/>
+    <circle cx="1095" cy="206" r="158" stroke="#5EEAD4" stroke-opacity=".16"/>
+    <circle cx="1095" cy="206" r="98" stroke="#5EEAD4" stroke-opacity=".24"/>
+    <path d="M922 86L1095 206L1227 300M1095 206L1146 55M1095 206L943 341" stroke="#61C9CC" stroke-opacity=".35" stroke-width="1.5"/>
+    <g fill="#101F2E" stroke="#3F727F">
+      <rect x="896" y="60" width="52" height="52" rx="14"/>
+      <rect x="1120" y="29" width="52" height="52" rx="14"/>
+      <rect x="1201" y="274" width="52" height="52" rx="14"/>
+      <rect x="917" y="315" width="52" height="52" rx="14"/>
+    </g>
+    <path d="M915 78L906 86L915 94M929 78L938 86L929 94M1146 42V68M1133 55H1159M1215 288H1239V312H1215ZM931 341H955M943 329V353" stroke="#86C8CF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1051" y="162" width="88" height="88" rx="23" fill="#133D43" stroke="#5EEAD4" stroke-width="1.5"/>
+    <text x="1095" y="219" fill="#7FF4DB" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" text-anchor="middle">IS</text>
+    <g font-family="Arial,Helvetica,sans-serif">
+      <circle cx="68" cy="64" r="4" fill="#5EEAD4"/>
+      <text x="84" y="69" fill="#8BD8D0" font-size="15" font-weight="700" letter-spacing="3">ENGINEER / BUILDER / TECH LEAD</text>
+      <text x="64" y="151" fill="#F3F7FB" font-size="62" font-weight="700" letter-spacing="-2">Islam Saadi</text>
+      <text x="66" y="194" fill="#C1D1DF" font-size="24">Tech Lead &amp; Senior Full Stack Engineer</text>
+      <text x="64" y="273" fill="#F3F7FB" font-size="43" font-weight="700" letter-spacing="-1">From idea to <tspan fill="#5EEAD4">production.</tspan></text>
+      <text x="66" y="312" fill="#A4B9C9" font-size="19">Full-stack products. Applied AI. Cloud systems.</text>
+      <path d="M66 350H772" stroke="#2C4455"/>
+      <text x="66" y="383" fill="#8EAABB" font-size="14" letter-spacing="2">9+ YEARS BUILDING SOFTWARE</text>
+      <text x="459" y="383" fill="#8EAABB" font-size="14" letter-spacing="2">ARCHITECTURE → DELIVERY</text>
+    </g>
+  </g>
+</svg>

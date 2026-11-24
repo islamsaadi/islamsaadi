@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="42" viewBox="0 0 232 42" role="img" aria-label="Connect on LinkedIn">
+  <rect x=".5" y=".5" width="231" height="41" rx="9" fill="#0C2535" stroke="#2F6073"/>
+  <text x="20" y="26" fill="#D2F8F4" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">CONNECT ON LINKEDIN</text>
+  <path d="M207 25l8-8m-7 0h7v7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
